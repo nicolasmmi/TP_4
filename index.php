@@ -1,14 +1,8 @@
 <?php include('entete.php'); ?>
 
-    <head>
-    </head>
-   <body>
-        <h1>bonjour</h1>
-        <div>
-            <form action="connexion.php" method="get">
-                <input type="text" id="identifiant" name="Utilisateur" size="20" />
-                <input type="password" id="password" name="MotDePasse" size="20"/>
-                <input type="submit" value="Envoi"/>
-            </form>
+
+   
+        <h1><a href="formulaire.php">CONNEXION<a></h1>
+       
     
 <?php include('pieddepage.php'); ?>
