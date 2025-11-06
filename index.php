@@ -1,4 +1,5 @@
-<html>
+<?php include('entete.php'); ?>
+
     <head>
     </head>
    <body>
@@ -9,5 +10,5 @@
                 <input type="password" id="password" name="MotDePasse" size="20"/>
                 <input type="submit" value="Envoi"/>
             </form>
-    <body>
-<html>
+    
+<?php include('pieddepage.php'); ?>
