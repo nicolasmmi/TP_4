@@ -1,5 +1,5 @@
 <html>
    <?php $user=$_REQUEST['Utilisateur'];
-   echo 'Salut' $user;
+   echo $user;
    ?>
 </html>
