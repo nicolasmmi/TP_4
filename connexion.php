@@ -1,4 +1,4 @@
 <html>
-   <?php $_REQUEST['Utilisateur']=$user;
+   <?php =$user=$_REQUEST['Utilisateur'];
    echo 'Salut ' $user;
 <html>
